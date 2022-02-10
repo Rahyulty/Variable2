@@ -1,13 +1,15 @@
-# Variable 2
+# Variable 2 Uni
 
 Hello my name is Rahyulty and im a developer on roblox.
 
 I started this project because I wanted to broaden my knowledge of fundamental lua, which I believe would benefit me in roblox studio.
 
+Then after some consideration decided to write this in every language I want to learn so this will be universal
+
 None of this is something that im actually going to use nor will it be helpful to you 
 
 
-# Basics of Variable 2
+# Basics of Variable 2 in lua 
 
 This is a program that allows you to temp store data under the same name just under different id's
 
@@ -34,6 +36,22 @@ print(Sum)
 -- Wil print (21)
 
 ```
-again as stated above this isnt anything special or groundbreaking just a little project im working on to help me in the longrun
+
+
+# Variable 2 in Python
+
+- Coming soon
+
+
+# Variable 2 in Rust
+
+- Coming Soon
+
+
+
+
+
+
+- Again as stated above this isnt anything special or groundbreaking just a little project im working on to help me in the longrun
 
 Thank You!
