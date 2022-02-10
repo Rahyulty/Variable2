@@ -1,58 +1,3 @@
---[[
-  Uodates: 
-  
-  Increment Function For integers if you just want to increment a value instead of setting it 
-
-  Working on: 
-
-  Changed function to signify when a value in table changes.
-
-]]
-
-
---[[
- Hello This is a little something I made in my free time for me to exerise my brain in lua 
-
- Originally This was suppose to be a Repl.It DataStore with lua but unfortnaetly i have not fully graspped the knowledege of Repl.it Data store. 
-
- So on the contray i decdied to just make a tempoary datastore that can have multiple variables the same name be able to hold values via Table.
-
- The reason it can have same names is beacuse each variable or KeyName is assigned a KeyID which makes each data unique
-
- I am expanding this and hopefully soon this can tie into repl.it data store
-
- HOW TO GET STARTED
-
- First you must create a key using the CreateKey() function 
-
- For the arguments you need a key name (string) and optional The value that this key will hold 
-
- You can Set and Get these values using the SetValue() function and GetValue() function 
-
- The value you can set using Variable 2 is unlimited which means you can set tables as they key value. 
-
- To make things easier we have bulit in a TableToString function into the code so that if Get() return table ID then you can simple convert it to a String using TableToString(). You can use luas bulit in string to table to convert back. 
-
-This is also open source so feel free to change anything to your liking
-
- -- Code Examples
-
-CreateKey("TableOfNumbers", {1,2,3,4,5,6})
-
-local ID = GetKeyIdFromName("TableOfNumbers")
-
-local Table = GetValue(ID)
-local Sum = 0 
-
-for i,v in pairs(Table) do 
-Sum = Sum + v 
-end 
-
-print(Sum)
--- Wil print (21)
-]]
-
-
 local DataStored = {}
 
 local KeyIdHandler = {0} -- Base at 0 for production uses
@@ -211,10 +156,9 @@ end
 end
 end
 
-local tries = 0
+function BinKey(ID)
 
-repeat string = "{"..math.random(1,4)..","..math.random(1,4)..","..math.random(1,4)..",".."4}"
-print(string)
-tries = tries + 1
-until string ==  "{1,2,3,4}"
-print("It took ".. tries.." tries to get it correct")
+  
+
+
+end
