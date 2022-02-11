@@ -1,3 +1,0 @@
-DataStored = []
-KeyID = []
-Bin = []
