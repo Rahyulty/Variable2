@@ -1,1 +1,4 @@
-print("Hello")
+DataStore = []
+KeyID = []
+Bin = []
+

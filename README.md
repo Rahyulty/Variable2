@@ -1,5 +1,11 @@
 # Variable 2 Uni
 
+# Updates
+
+- In Process of changing around the lua variable 2 function names so its not bad and actually makes sense
+
+# Introduction 
+
 Hello my name is Rahyulty and im a developer on roblox.
 
 I started this project because I wanted to broaden my knowledge of fundamental lua, which I believe would benefit me in roblox studio.
