@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# source: https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_03.html
+
+case "$1" in
+    lua)
+        lua lua/src/main.lua
+        ;;
+    python)
+        python3 python/main.py
+        ;;
+    rust)
+        cd rust
+        cargo r
+        ;;
+    *)
+        echo "uhhh only accepting lua | python | rust"
+        exit 1
+        ;;
+esac
