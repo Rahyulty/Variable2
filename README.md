@@ -1,29 +1,26 @@
 # Variable 2 Uni
 
-# Updates
+# Updates 
 
+## Lua Specifc Updates
+
+- Lua's Naming Scheme for Variable 2 had been completely updated
+- Removed Name from ID function as deemed it useless 
+- Added a Bin + Restore function 
+
+## Python Updates
+- Python Variable 2 is in the working and is being developed 
+
+## Rust Updates
+- Rust Variable2 Soon
+
+## Minor General Updates 
 - Bug Fixes
 - Preformace Improvements 
-- Made Source Code less of a eye sore
-- Updated Comments  
-# Variable 2 Uni
-
-# Updates
-
-- Bug Fixes
-- Preformace Improvements 
-- Made Source Code less of a eye sore
+- Made Source Code less of a eye sore 
 - Updated Comments  
 
-# Lua Specifc Updates 
-…
 
-- Again as stated above this isnt anything special or groundbreaking just a little project im working on to help me in the longrun
-
-Thank You!
-# Lua Specifc Updates 
-…
-
-- Again as stated above this isnt anything special or groundbreaking just a little project im working on to help me in the longrun
+  This isnt anything special or groundbreaking just a little project im working on to help me in the longrun
 
 Thank You!
