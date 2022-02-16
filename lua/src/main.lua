@@ -192,8 +192,3 @@ function RestoreData(ID)
     table.remove(Bin,Position)
     table.insert(DataStored, #DataStored + 1, Data)
 end
-
-
-
-print("Cash")
-
